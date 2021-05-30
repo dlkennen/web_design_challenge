@@ -1,0 +1,28 @@
+.sidenav {
+    align-items: center;
+    align-content: center;
+    background-color: whitesmoke;
+}
+
+.sidenav a {
+    align-content: center;
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f01414;
+}
+
+navbar {
+    background-color: gray;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+
